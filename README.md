@@ -9,4 +9,4 @@ Ambiente: VSCode
 Extensão: PlatformIO 
 Framework: Arduino IDE
 
-Vídeo demosntrativo: https://youtu.be/2s1ynClxd5s
+Vídeo demonstrativo: https://youtu.be/2s1ynClxd5s
